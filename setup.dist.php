@@ -1,5 +1,5 @@
 <?php
-//請將此檔更名為 setup.php，並填好相關設定值
+//請將此檔更名為 setup.php 並填好相關設定值
 
 //資料庫位址
 define('_DB_HOST', 'localhost');
