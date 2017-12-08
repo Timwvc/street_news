@@ -66,12 +66,14 @@
   $(document).ready(function () {
     fontResizer('1rem', '1.4rem', '1.6rem');
   });
+
 </script>
 
 <!--分享-->
 <script>
   var a2a_config = a2a_config || {};
   a2a_config.locale = "zh-TW";
+
 </script>
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END-->
